@@ -10,3 +10,4 @@
 - [x] Add TailwindCSS
 - [x] Add shadcn/ui
 - [x] Add Prettier
+- [x] Dark mode as default
