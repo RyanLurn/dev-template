@@ -9,3 +9,4 @@
 - [x] Add a todo list
 - [x] Add TailwindCSS
 - [x] Add shadcn/ui
+- [x] Add Prettier
