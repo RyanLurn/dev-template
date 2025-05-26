@@ -8,3 +8,4 @@
 - [x] Init Git and push to GitHub
 - [x] Add a todo list
 - [x] Add TailwindCSS
+- [x] Add shadcn/ui
